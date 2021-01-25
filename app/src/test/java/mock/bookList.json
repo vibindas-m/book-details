@@ -1,0 +1,752 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2021-01-21T00:39:01-05:00",
+  "results": [
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 1,
+      "rank_last_week": 3,
+      "weeks_on_list": 33,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/0525536299?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "0525536299",
+          "isbn13": "9780525536291"
+        },
+        {
+          "isbn10": "0593329430",
+          "isbn13": "9780593329436"
+        },
+        {
+          "isbn10": "0593416961",
+          "isbn13": "9780593416969"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE VANISHING HALF",
+          "description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+          "contributor": "by Brit Bennett",
+          "author": "Brit Bennett",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Riverhead",
+          "primary_isbn13": "9780525536291",
+          "primary_isbn10": "0525536299"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 2,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/1538747278?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "1538747278",
+          "isbn13": "9781538747278"
+        },
+        {
+          "isbn10": "1538719061",
+          "isbn13": "9781538719060"
+        },
+        {
+          "isbn10": "1538721317",
+          "isbn13": "9781538721315"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE SCORPION’S TAIL",
+          "description": "The second book in the Nora Kelly series. An F.B.I. agent and an archaeologist identify a mummified corpse and its gruesome cause of death.",
+          "contributor": "by Douglas Preston and Lincoln Child",
+          "author": "Douglas Preston and Lincoln Child",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Grand Central",
+          "primary_isbn13": "9781538747278",
+          "primary_isbn10": "1538747278"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 3,
+      "rank_last_week": 2,
+      "weeks_on_list": 2,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/1984821377?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "1984821377",
+          "isbn13": "9781984821379"
+        },
+        {
+          "isbn10": "1984821385",
+          "isbn13": "9781984821386"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "NEIGHBORS",
+          "description": "A Hollywood recluse’s perspective changes when she invites her neighbors into her mansion after an earthquake.",
+          "contributor": "by Danielle Steel",
+          "author": "Danielle Steel",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Delacorte",
+          "primary_isbn13": "9781984821379",
+          "primary_isbn10": "1984821377"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 4,
+      "rank_last_week": 1,
+      "weeks_on_list": 2,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/0593157710?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "0593157710",
+          "isbn13": "9780593157718"
+        },
+        {
+          "isbn10": "0593157729",
+          "isbn13": "9780593157725"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "STAR WARS: LIGHT OF THE JEDI",
+          "description": "In this installment of the High Republic series, a disaster in hyperspace may cause far greater damage.",
+          "contributor": "by Charles Soule",
+          "author": "Charles Soule",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Del Rey",
+          "primary_isbn13": "9780593157718",
+          "primary_isbn10": "0593157710"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 5,
+      "rank_last_week": 13,
+      "weeks_on_list": 7,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/0525559477?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "0525559477",
+          "isbn13": "9780525559474"
+        },
+        {
+          "isbn10": "0525559485",
+          "isbn13": "9780525559481"
+        },
+        {
+          "isbn10": "0655697071",
+          "isbn13": "9780655697077"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE MIDNIGHT LIBRARY",
+          "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+          "contributor": "by Matt Haig",
+          "author": "Matt Haig",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Viking",
+          "primary_isbn13": "9780525559474",
+          "primary_isbn10": "0525559477"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 6,
+      "rank_last_week": 5,
+      "weeks_on_list": 124,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "0735219095",
+          "isbn13": "9780735219090"
+        },
+        {
+          "isbn10": "0735219117",
+          "isbn13": "9780735219113"
+        },
+        {
+          "isbn10": "0525640371",
+          "isbn13": "9780525640370"
+        },
+        {
+          "isbn10": "0593105419",
+          "isbn13": "9780593105412"
+        },
+        {
+          "isbn10": "0593187989",
+          "isbn13": "9780593187982"
+        },
+        {
+          "isbn10": "0525640363",
+          "isbn13": "9780525640363"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "WHERE THE CRAWDADS SING",
+          "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+          "contributor": "by Delia Owens",
+          "author": "Delia Owens",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Putnam",
+          "primary_isbn13": "9780735219090",
+          "primary_isbn10": "0735219095"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 7,
+      "rank_last_week": 0,
+      "weeks_on_list": 12,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/0765387565?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "0765387565",
+          "isbn13": "9780765387561"
+        },
+        {
+          "isbn10": "1250793971",
+          "isbn13": "9781250793997"
+        },
+        {
+          "isbn10": "1250793998",
+          "isbn13": "9781250795182"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE INVISIBLE LIFE OF ADDIE LARUE",
+          "description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+          "contributor": "by V.E. Schwab",
+          "author": "VE Schwab",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Tor/Forge",
+          "primary_isbn13": "9780765387561",
+          "primary_isbn10": "0765387565"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 8,
+      "rank_last_week": 10,
+      "weeks_on_list": 18,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/1501160834?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "1501160834",
+          "isbn13": "9781501160837"
+        },
+        {
+          "isbn10": "198216963X",
+          "isbn13": "9781982169633"
+        },
+        {
+          "isbn10": "1501160850",
+          "isbn13": "9781501160851"
+        },
+        {
+          "isbn10": "1432879715",
+          "isbn13": "9781432879716"
+        },
+        {
+          "isbn10": "1797105825",
+          "isbn13": "9781797105826"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "ANXIOUS PEOPLE",
+          "description": "A failed bank robber holds a group of strangers hostage at an apartment open house.",
+          "contributor": "by Fredrik Backman",
+          "author": "Fredrik Backman",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Atria",
+          "primary_isbn13": "9781501160837",
+          "primary_isbn10": "1501160834"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 9,
+      "rank_last_week": 7,
+      "weeks_on_list": 16,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/1538728575?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "1538728575",
+          "isbn13": "9781538728574"
+        },
+        {
+          "isbn10": "1538718979",
+          "isbn13": "9781538718971"
+        },
+        {
+          "isbn10": "1478992670",
+          "isbn13": "9781478992677"
+        },
+        {
+          "isbn10": "1549102214",
+          "isbn13": "9781549102219"
+        },
+        {
+          "isbn10": "1549106570",
+          "isbn13": "9781549106576"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE RETURN",
+          "description": "A doctor serving in the Navy in Afghanistan goes back to North Carolina where two women change his life.",
+          "contributor": "by Nicholas Sparks",
+          "author": "Nicholas Sparks",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Grand Central",
+          "primary_isbn13": "9781538728574",
+          "primary_isbn10": "1538728575"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 10,
+      "rank_last_week": 9,
+      "weeks_on_list": 14,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/0385545967?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "0385545967",
+          "isbn13": "9780385545969"
+        },
+        {
+          "isbn10": "0385545975",
+          "isbn13": "9780385545976"
+        },
+        {
+          "isbn10": "0593168542",
+          "isbn13": "9780593168547"
+        },
+        {
+          "isbn10": "0593168577",
+          "isbn13": "9780593168578"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "A TIME FOR MERCY",
+          "description": "The third book in the Jake Brigance series. A 16-year-old is accused of killing a deputy in Clanton, Miss., in 1990.",
+          "contributor": "by John Grisham",
+          "author": "John Grisham",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Doubleday",
+          "primary_isbn13": "9780385545969",
+          "primary_isbn10": "0385545967"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 11,
+      "rank_last_week": 11,
+      "weeks_on_list": 8,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/1524761338?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "1524761338",
+          "isbn13": "9781524761332"
+        },
+        {
+          "isbn10": "1524761354",
+          "isbn13": "9781524761356"
+        },
+        {
+          "isbn10": "0593396952",
+          "isbn13": "9780593396957"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "READY PLAYER TWO",
+          "description": "In a sequel to “Ready Player One,” Wade Watts discovers a technological advancement and goes on a new quest.",
+          "contributor": "by Ernest Cline",
+          "author": "Ernest Cline",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Ballantine",
+          "primary_isbn13": "9781524761332",
+          "primary_isbn10": "1524761338"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 12,
+      "rank_last_week": 0,
+      "weeks_on_list": 2,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/0525657606?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "0525657606",
+          "isbn13": "9780525657606"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "HAMNET",
+          "description": "An imagined exploration of how the death of an 11-year-old boy to the Black Plague in 1596 might have affected a famous playwright and his wife.",
+          "contributor": "by Maggie O'Farrell",
+          "author": "Maggie O'Farrell",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Knopf",
+          "primary_isbn13": "9780525657606",
+          "primary_isbn10": "0525657606"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 13,
+      "rank_last_week": 6,
+      "weeks_on_list": 2,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/1635575427?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "1635575427",
+          "isbn13": "9781635575422"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "OUTLAWED",
+          "description": "Ada, who apprentices midwifery under her mother, must decide whether to aid a band of outlaws who want to create a safe haven for outcast women.",
+          "contributor": "by Anna North",
+          "author": "Anna North",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Bloomsbury",
+          "primary_isbn13": "9781635575422",
+          "primary_isbn10": "1635575427"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 14,
+      "rank_last_week": 0,
+      "weeks_on_list": 7,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/0316420255?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "0316420255",
+          "isbn13": "9780316420259"
+        },
+        {
+          "isbn10": "0316497991",
+          "isbn13": "9780316497992"
+        },
+        {
+          "isbn10": "0316541761",
+          "isbn13": "9780316541763"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "DEADLY CROSS",
+          "description": "The 28th book in the Alex Cross series. An investigation of a double homicide sends Alex Cross to Alabama.",
+          "contributor": "by James Patterson",
+          "author": "James Patterson",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Little, Brown",
+          "primary_isbn13": "9780316420259",
+          "primary_isbn10": "0316420255"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2021-01-16",
+      "published_date": "2021-01-31",
+      "rank": 15,
+      "rank_last_week": 0,
+      "weeks_on_list": 22,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/dp/0062868934?tag=NYTBSREV-20&tag=NYTBSREV-20",
+      "isbns": [
+        {
+          "isbn10": "0062868934",
+          "isbn13": "9780062868930"
+        },
+        {
+          "isbn10": "0062868950",
+          "isbn13": "9780062868954"
+        },
+        {
+          "isbn10": "006297873X",
+          "isbn13": "9780062978738"
+        },
+        {
+          "isbn10": "0062985051",
+          "isbn13": "9780062985057"
+        },
+        {
+          "isbn10": "1094156442",
+          "isbn13": "9781094156446"
+        },
+        {
+          "isbn10": "1094156450",
+          "isbn13": "9781094156453"
+        },
+        {
+          "isbn10": "0062868942",
+          "isbn13": "9780062868947"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE GUEST LIST",
+          "description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+          "contributor": "by Lucy Foley",
+          "author": "Lucy Foley",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Morrow",
+          "primary_isbn13": "9780062868930",
+          "primary_isbn10": "0062868934"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    }
+  ]
+}
